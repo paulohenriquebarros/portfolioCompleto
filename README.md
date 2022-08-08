@@ -1,5 +1,13 @@
 # portfolioCompleto
-portfolio do desenvolvedor
+Portfolio do desenvolvedor
 
 ## tarefas
-o controle das tarefas desse projeto será realizada no gitHub
+O controle das tarefas desse projeto será realizada no gitHub
+
+## icones
+:package:Nova fucionalidade
+:up:atualização
+:beatle:correção de bug
+:checkered:release
+
+
