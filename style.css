@@ -188,7 +188,7 @@ transition: color 1s;
 .social-midia{
     
     position: absolute;
-    bottom:2rem ;
+    bottom:3rem ;
     width: 100%;
     display: flex;
     justify-content: space-evenly;
@@ -208,6 +208,7 @@ transition: color 1s;
 }
 .social-midia i:hover{
    background-color: #a004ff; 
+   
 }
 
 

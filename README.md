@@ -1,7 +1,9 @@
 # portfolioCompleto
+
 Portfolio do desenvolvedor
 
 ## tarefas
+
 O controle das tarefas desse projeto será realizada no gitHub
 
 ## icones
