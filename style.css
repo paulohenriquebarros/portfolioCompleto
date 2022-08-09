@@ -188,7 +188,7 @@ transition: color 1s;
 .social-midia{
     
     position: absolute;
-    bottom:3rem ;
+    bottom:4rem ;
     width: 100%;
     display: flex;
     justify-content: space-evenly;
