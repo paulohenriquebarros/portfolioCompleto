@@ -35,7 +35,7 @@
    background-color: #fff;
    height: .1rem;
     box-shadow:  0.1rem 0.1rem 1px #000;
-    transition:transfor 1s;
+    transition:transform 1s;
 }
 .show-menu #line1{
     transform: rotate(45deg) translate(.3rem, .45rem);
